@@ -20,7 +20,7 @@ A list of papers that I have read (blog link included in that case) or plan to r
 * [Kafka: a Distributed Messaging System for Log Processing](http://notes.stephenholiday.com/Kafka.pdf)
 
 #### Processing
-* [MapReduce:SimpliedDataProcessingonLargeClusters](https://research.google.com/archive/mapreduce-osdi04.pdf)
+* [MapReduce:Simplified Data Processing on Large Clusters](https://research.google.com/archive/mapreduce-osdi04.pdf)
 
 
 ## Videos
