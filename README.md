@@ -12,6 +12,7 @@ A list of papers that I have read (blog link included in that case) or plan to r
 #### Storage & Databases
 * [Dynamo: Amazon's Highly Available Key Value Store](http://bnrg.eecs.berkeley.edu/~randy/Courses/CS294.F07/Dynamo.pdf)
 * [Cassandra - A Decentralized Structured Storage System](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.161.6751&rep=rep1&type=pdf)
+* [Pinot: Realtime OLAP for 530 Million Users] (https://cwiki.apache.org/confluence/download/attachments/103092375/Pinot.pdf)
 
 #### Consensus & Replication
 * [Viewstamped Replication: A New Primary Copy Method to Support Highly-Available Distributed Systems](http://www.pmg.csail.mit.edu/papers/vr.pdf)
